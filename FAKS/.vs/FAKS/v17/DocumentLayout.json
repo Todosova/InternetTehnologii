@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\it\\FAKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|d:\\it\\faks\\faks\\posledna.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\posledna.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\posledna.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\posledna.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\predmeti.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\predmeti.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\predmeti.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\predmeti.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\godina.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\godina.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\godina.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\godina.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|D:\\it\\FAKS\\faks\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{01B97881-E601-49BB-B79C-043A182372A5}|FAKS\\FAKS.csproj|solutionrelative:faks\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Predmeti.aspx.cs",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Predmeti.aspx.cs",
+              "RelativeDocumentMoniker": "FAKS\\Predmeti.aspx.cs",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Predmeti.aspx.cs",
+              "RelativeToolTip": "FAKS\\Predmeti.aspx.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAowHEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:09:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Predmeti.aspx",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Predmeti.aspx",
+              "RelativeDocumentMoniker": "FAKS\\Predmeti.aspx",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Predmeti.aspx",
+              "RelativeToolTip": "FAKS\\Predmeti.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T19:51:07.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Godina.aspx.cs",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Godina.aspx.cs",
+              "RelativeDocumentMoniker": "FAKS\\Godina.aspx.cs",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Godina.aspx.cs",
+              "RelativeToolTip": "FAKS\\Godina.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:45:30.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Godina.aspx",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Godina.aspx",
+              "RelativeDocumentMoniker": "FAKS\\Godina.aspx",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Godina.aspx",
+              "RelativeToolTip": "FAKS\\Godina.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T19:43:09.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "FAKS\\Najava.aspx.cs",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Najava.aspx.cs",
+              "RelativeToolTip": "FAKS\\Najava.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:20:21.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Najava.aspx",
+              "RelativeDocumentMoniker": "FAKS\\Najava.aspx",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Najava.aspx",
+              "RelativeToolTip": "FAKS\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T19:16:39.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Posledna.aspx.cs",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Posledna.aspx.cs",
+              "RelativeDocumentMoniker": "FAKS\\Posledna.aspx.cs",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Posledna.aspx.cs",
+              "RelativeToolTip": "FAKS\\Posledna.aspx.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:53:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Posledna.aspx",
+              "DocumentMoniker": "D:\\it\\FAKS\\FAKS\\Posledna.aspx",
+              "RelativeDocumentMoniker": "FAKS\\Posledna.aspx",
+              "ToolTip": "D:\\it\\FAKS\\FAKS\\Posledna.aspx",
+              "RelativeToolTip": "FAKS\\Posledna.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T21:03:56.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

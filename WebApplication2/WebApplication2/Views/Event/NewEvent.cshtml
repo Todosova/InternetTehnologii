@@ -1,0 +1,23 @@
+﻿@model WebApplication2.Models.EventModel
+@{
+    ViewBag.Title = "NewEvent";
+}
+
+<h2>Add a new event</h2>
+
+@using (Html.BeginForm("InsertNewEvent", "Event"))
+{
+    <div>
+        <label for="Ime">Име:</label>
+        @Html.TextBoxFor(model => model.Ime)
+        @Html.ValidationMessageFor(model => model.Ime)
+    </div>
+    <div>
+        <label for="Lokacija">Локација:</label>
+        @Html.TextBoxFor(model => model.Lokacija)
+        @Html.ValidationMessageFor(model => model.Lokacija)
+    </div>
+
+    <button type="submit">Додади настан</button>
+}
+

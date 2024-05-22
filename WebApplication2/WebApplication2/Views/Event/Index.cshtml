@@ -1,0 +1,30 @@
+﻿@model List<WebApplication2.Models.EventModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Clients</h2>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Ime</th>
+        <th>Lokacija</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Ime</td>
+            <td>@item.Lokacija</td>
+            <td>
+                @Html.ActionLink("Edit", "EditEvent", new { id = item.Id })
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "DeleteEvent", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+

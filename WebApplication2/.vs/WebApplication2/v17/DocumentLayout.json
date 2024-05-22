@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\it\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|d:\\it\\webapplication2\\webapplication2\\controllers\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|D:\\it\\WebApplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|D:\\it\\WebApplication2\\webapplication2\\views\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|D:\\it\\WebApplication2\\webapplication2\\views\\event\\newevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\event\\newevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|D:\\it\\WebApplication2\\webapplication2\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|D:\\it\\WebApplication2\\webapplication2\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE34DDC-505C-4587-BEEE-7EE05012AACD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:11:27.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditEvent.cshtml",
+              "DocumentMoniker": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Event\\EditEvent.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Event\\EditEvent.cshtml",
+              "ToolTip": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Event\\EditEvent.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Event\\EditEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:07:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewEvent.cshtml",
+              "DocumentMoniker": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Event\\NewEvent.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Event\\NewEvent.cshtml",
+              "ToolTip": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Event\\NewEvent.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Event\\NewEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:07:00.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Event\\Index.cshtml",
+              "ToolTip": "D:\\it\\WebApplication2\\WebApplication2\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Event\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:05:11.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "D:\\it\\WebApplication2\\WebApplication2\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\EventModel.cs",
+              "ToolTip": "D:\\it\\WebApplication2\\WebApplication2\\Models\\EventModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\EventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:01:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\it\\WebApplication2\\WebApplication2\\Controllers\\Event.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Event.cs",
+              "ToolTip": "D:\\it\\WebApplication2\\WebApplication2\\Controllers\\Event.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:01:20.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

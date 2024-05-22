@@ -1,0 +1,23 @@
+﻿@model WebApplication2.Models.EventModel
+@{
+    ViewBag.Title = "EditEvent";
+}
+
+<h2>Edit Event</h2>
+
+@using (Html.BeginForm("EditEvent", "Event"))
+{
+    @Html.HiddenFor(model => model.Id) 
+    <div>
+        <label for="Ime">Име:</label>
+        @Html.TextBoxFor(model => model.Ime)
+        @Html.ValidationMessageFor(model => model.Ime)
+    </div>
+    <div>
+        <label for="Lokacija">Локација:</label>
+        @Html.TextBoxFor(model => model.Lokacija)
+        @Html.ValidationMessageFor(model => model.Lokacija)
+    </div>
+
+    <button type="submit">Edit</button>
+}
